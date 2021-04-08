@@ -1,0 +1,12 @@
+==========================================
+Explication des jeux de données (datasets)
+==========================================
+
+Les fichiers excel
+
+DonneesIllustrations.xlsx  :  contient l'ensemble des données utilisées pour tester les algorithmes cités dans le mémoire
+
+donneesEspecesADI.xlsm     :  contient les données relevables sur les espèces végétales et celles des espèces du mémoire
+
+taxons.csv : fichier CSV de test
+taxons.txt : fichier TXT de test
