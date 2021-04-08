@@ -17,10 +17,16 @@ L'étudiant en charge de la mise en oeuvre de ce projet est le denommé **ADI A.
 
 Pour participer au projet, veuillez écrire à ADI à l'adresse suivante :
 
-[.] email: adi.junior.da98@gmail.com
-[x] contacts : +225 07 59596343  / 01 71085689
+- email: adi.junior.da98@gmail.com  
+- contacts : +225 07 59596343  / 01 71085689  
+
+```TXT 
+NB: 
+La participation que vous vous apprêtez à faire consiste à la récolte de données qui est la phase la plus pénible
+de ce projet (mémoire).
 
 
+```
 **SOBIE**
 
 
